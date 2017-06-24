@@ -1,1 +1,1 @@
-Explore California is a sample website.
+Explore California is a sample website created for educational purposes.
