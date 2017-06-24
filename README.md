@@ -1,2 +1,1 @@
-# explore_california
-# explore_california
+Explore California is a sample website.
